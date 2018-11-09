@@ -1,15 +1,15 @@
 {
-  "main.css": "/shubhamarya9.github.io/Contact-Manager/static/css/main.5bf5a46e.chunk.css",
-  "main.js": "/shubhamarya9.github.io/Contact-Manager/static/js/main.e6d9960d.chunk.js",
-  "main.js.map": "/shubhamarya9.github.io/Contact-Manager/static/js/main.e6d9960d.chunk.js.map",
-  "static/css/1.a28eaecc.chunk.css": "/shubhamarya9.github.io/Contact-Manager/static/css/1.a28eaecc.chunk.css",
-  "static/js/1.01485eec.chunk.js": "/shubhamarya9.github.io/Contact-Manager/static/js/1.01485eec.chunk.js",
-  "static/js/1.01485eec.chunk.js.map": "/shubhamarya9.github.io/Contact-Manager/static/js/1.01485eec.chunk.js.map",
-  "runtime~main.js": "/shubhamarya9.github.io/Contact-Manager/static/js/runtime~main.b32aeb32.js",
-  "runtime~main.js.map": "/shubhamarya9.github.io/Contact-Manager/static/js/runtime~main.b32aeb32.js.map",
-  "static/css/1.a28eaecc.chunk.css.map": "/shubhamarya9.github.io/Contact-Manager/static/css/1.a28eaecc.chunk.css.map",
-  "static/css/main.5bf5a46e.chunk.css.map": "/shubhamarya9.github.io/Contact-Manager/static/css/main.5bf5a46e.chunk.css.map",
-  "index.html": "/shubhamarya9.github.io/Contact-Manager/index.html",
-  "precache-manifest.d4f632bc134efe0e13765dec5763d13f.js": "/shubhamarya9.github.io/Contact-Manager/precache-manifest.d4f632bc134efe0e13765dec5763d13f.js",
-  "service-worker.js": "/shubhamarya9.github.io/Contact-Manager/service-worker.js"
+  "main.css": "/Contact-Manager/static/css/main.5bf5a46e.chunk.css",
+  "main.js": "/Contact-Manager/static/js/main.9efee72e.chunk.js",
+  "main.js.map": "/Contact-Manager/static/js/main.9efee72e.chunk.js.map",
+  "static/css/1.a28eaecc.chunk.css": "/Contact-Manager/static/css/1.a28eaecc.chunk.css",
+  "static/js/1.01485eec.chunk.js": "/Contact-Manager/static/js/1.01485eec.chunk.js",
+  "static/js/1.01485eec.chunk.js.map": "/Contact-Manager/static/js/1.01485eec.chunk.js.map",
+  "runtime~main.js": "/Contact-Manager/static/js/runtime~main.65dd574d.js",
+  "runtime~main.js.map": "/Contact-Manager/static/js/runtime~main.65dd574d.js.map",
+  "static/css/1.a28eaecc.chunk.css.map": "/Contact-Manager/static/css/1.a28eaecc.chunk.css.map",
+  "static/css/main.5bf5a46e.chunk.css.map": "/Contact-Manager/static/css/main.5bf5a46e.chunk.css.map",
+  "index.html": "/Contact-Manager/index.html",
+  "precache-manifest.23a4313aea5486bdb988e6678e7b9bc5.js": "/Contact-Manager/precache-manifest.23a4313aea5486bdb988e6678e7b9bc5.js",
+  "service-worker.js": "/Contact-Manager/service-worker.js"
 }
